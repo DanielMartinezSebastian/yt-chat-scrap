@@ -1,4 +1,9 @@
-# multichat (YouTube Live Chat Viewer)
+# multichat (YouTube Live Chat Viewer) 🎉
+
+> Vista previa:
+> ![Vista previa de multichat mostrando emojis personalizados de YouTube](yt-chat-preview.gif)
+> 
+> **multichat** renderiza en tiempo real los mensajes y emojis personalizados del chat en vivo de YouTube.
 
 Este proyecto permite visualizar en tiempo real el chat de un video en vivo de YouTube usando Next.js, Express, Socket.IO y la librería `youtube-chat`.
 
@@ -24,9 +29,9 @@ Este proyecto permite visualizar en tiempo real el chat de un video en vivo de Y
    ```sh
    npm run dev
    ```
-2. Abre tu navegador en [http://localhost:3000](http://localhost:3000)
-3. Ingresa el **ID del video en vivo de YouTube** en el campo de texto y haz clic en "Start Chat".
-4. Verás los mensajes del chat en tiempo real, incluyendo texto y emojis.
+2. Abre tu navegador en [http://localhost:3000](http://localhost:3000) 🌐
+3. Ingresa el **ID del video en vivo de YouTube** en el campo de texto y haz clic en "Start Chat". ▶️
+4. Verás los mensajes del chat en tiempo real, incluyendo texto y emojis. 😃
 
 ## ¿Cómo obtener el ID de un video de YouTube?
 
@@ -51,7 +56,7 @@ Solo copia esa parte y pégala en el campo de la app.
 - `server.ts`: Inicialización de Next.js y Express usando ts-node.
 
 ## Notas
-- Solo funciona con videos que estén **en vivo**.
+- Solo funciona con videos que estén **en vivo**. 🔴
 - Si no ves mensajes nuevos, asegúrate de que el videoId es correcto y que el stream está activo.
 - Si tienes problemas con los emojis, asegúrate de tener la última versión de la librería `youtube-chat`.
 - El servidor se ejecuta directamente con `ts-node`, por lo que no es necesario compilar manualmente.
@@ -63,6 +68,8 @@ Solo copia esa parte y pégala en el campo de la app.
 - [Express](https://expressjs.com/)
 
 ---
-¡Disfruta monitoreando chats en vivo de YouTube!
-# yt-chat-scrap
-# yt-chat-scrap
+¡Disfruta monitoreando chats en vivo de YouTube! 🚀
+
+## Contribuciones
+Si deseas contribuir al proyecto, no dudes en abrir un **issue** o enviar un **pull request**. Todas las contribuciones son bienvenidas. 🙌
+
